@@ -1,3 +1,3 @@
 # les_github
 
-# github leren kennen.
+# github en markdown leren kennen.
